@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "867282906204",
+    "firebase_url": "https://maya-luxury-default-rtdb.firebaseio.com",
+    "project_id": "maya-luxury",
+    "storage_bucket": "maya-luxury.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867282906204:android:7d4f2ad7059d56de4e4a99",
+        "android_client_info": {
+          "package_name": "mayaluxury.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPBVjs8_Mc0bgtIVtpP1vH3u9jOsudVnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
